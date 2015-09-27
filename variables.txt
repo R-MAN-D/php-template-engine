@@ -1,0 +1,3 @@
+TITLE=Job=test
+IMAGES=image1.jpg,image2.jpg,image3.jpg
+IMAGES2=image3.jpg,image2.jpg,image1.jpg
