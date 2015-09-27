@@ -2,10 +2,10 @@
 /* @author  Armande Bayanes
  * */
 
-$engine = new QabanaTemplateEngine('home.html', 'variables.txt', array('VAR'));
+$engine = new XyTemplateEngine('home.html', 'variables.txt', array('VAR'));
 $engine->render();
 
-class QabanaTemplateEngine {
+class XyTemplateEngine {
 
     private $body = '';
     private $variables = array();
